@@ -19,7 +19,7 @@
   
   let observer = new IntersectionObserver(callback, options);
   
-  document.querySelectorAll('.card-invisible')
+  document.querySelectorAll('.card-invsible')
     .forEach(box => { observer.observe(box) });
 
 
