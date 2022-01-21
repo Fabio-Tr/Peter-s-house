@@ -282,7 +282,7 @@
                     raccontare le vostre storie attraverso disegni unici e divertenti ricamati interamente a
                     mano.</strong>
             </p>
-            <img src="/img/13.jpg" alt="" class="col-12 col-md-4">
+            <img src="/img/m01.jpg" alt="" class="col-12 col-md-4">
         </div>
     </div>
 
