@@ -5,7 +5,7 @@
 
             <div class="col-12 col-md-6 justify-content-center d-flex m-0 bg-white card-contorn-appartments p-3 card-invsible">
                 <div class="card-border">
-                    <div class="card shadow-lg p-3" style="width: 40rem;">
+                    <div class="card shadow-lg p-3">
                         <div class="card-body">
 
 
@@ -23,7 +23,7 @@
 
             <div class="col-12 col-md-6 justify-content-center d-flex m-0 bg-white card-contorn-appartments p-3 card-invsible">
                 <div class="card-border">
-                    <div class="card shadow-lg p-3" style="width: 40rem;">
+                    <div class="card shadow-lg p-3">
                         <div class="card-body">
 
 
@@ -70,18 +70,18 @@
                     <div class="swiffy-slider slider-nav-autoplay slider-item-reveal slider-nav-round slider-item-ratio slider-item-ratio-4x3 py-3"
                         id="slider1" data-slider-nav-autoplay-interval="3500">
                         <ul class="slider-container">
-                            <li><img src="/img/letojanni/01.jpg" loading="lazy" alt="..."></li>
-                            <li><img src="/img/letojanni/02.jpg" loading="lazy" alt="..."></li>
-                            <li><img src="/img/letojanni/03.jpg" loading="lazy" alt="..."></li>
-                            <li><img src="/img/letojanni/04.jpg" loading="lazy" alt="..."></li>
-                            <li><img src="/img/letojanni/05.jpg" loading="lazy" alt="..."></li>
-                            <li><img src="/img/letojanni/06.jpg" loading="lazy" alt="..."></li>
-                            <li><img src="/img/letojanni/07.jpg" loading="lazy" alt="..."></li>
-                            <li><img src="/img/letojanni/08.jpg" loading="lazy" alt="..."></li>
-                            <li><img src="/img/letojanni/09.jpg" loading="lazy" alt="..."></li>
-                            <li><img src="/img/letojanni/10.jpg" loading="lazy" alt="..."></li>
-                            <li><img src="/img/letojanni/11.jpg" loading="lazy" alt="..."></li>
-                            <li><img src="/img/letojanni/12.jpg" loading="lazy" alt="..."></li>
+                            <li><img src="/img/letojanni/01.jpg" loading="lazy" alt="Una foto della casa a Letojanni"></li>
+                            <li><img src="/img/letojanni/02.jpg" loading="lazy" alt="Una foto della casa a Letojanni"></li>
+                            <li><img src="/img/letojanni/03.jpg" loading="lazy" alt="Una foto della casa a Letojanni"></li>
+                            <li><img src="/img/letojanni/04.jpg" loading="lazy" alt="Una foto della casa a Letojanni"></li>
+                            <li><img src="/img/letojanni/05.jpg" loading="lazy" alt="Una foto della casa a Letojanni"></li>
+                            <li><img src="/img/letojanni/06.jpg" loading="lazy" alt="Una foto della casa a Letojanni"></li>
+                            <li><img src="/img/letojanni/07.jpg" loading="lazy" alt="Una foto della casa a Letojanni"></li>
+                            <li><img src="/img/letojanni/08.jpg" loading="lazy" alt="Una foto della casa a Letojanni"></li>
+                            <li><img src="/img/letojanni/09.jpg" loading="lazy" alt="Una foto della casa a Letojanni"></li>
+                            <li><img src="/img/letojanni/10.jpg" loading="lazy" alt="Una foto della casa a Letojanni"></li>
+                            <li><img src="/img/letojanni/11.jpg" loading="lazy" alt="Una foto della casa a Letojanni"></li>
+                            <li><img src="/img/letojanni/12.jpg" loading="lazy" alt="Una foto della casa a Letojanni"></li>
                         </ul>
 
                         <button type="button" class="slider-nav" aria-label="Go left"></button>
@@ -155,21 +155,21 @@
                         </p>
                     </div>
 
-                    <div class="swiffy-slider slider-nav-autoplay slider-item-reveal slider-nav-round slider-item-ratio slider-item-ratio-21x9 py-3"
+                    <div class="swiffy-slider slider-nav-autoplay slider-item-reveal slider-nav-round slider-item-ratio slider-item-ratio-4x3 py-3"
                         id="slider1" data-slider-nav-autoplay-interval="3500">
                         <ul class="slider-container">
-                            <li><img src="/img/letojanni/01.jpg" loading="lazy" alt="..."></li>
-                            <li><img src="/img/letojanni/02.jpg" loading="lazy" alt="..."></li>
-                            <li><img src="/img/letojanni/03.jpg" loading="lazy" alt="..."></li>
-                            <li><img src="/img/letojanni/04.jpg" loading="lazy" alt="..."></li>
-                            <li><img src="/img/letojanni/05.jpg" loading="lazy" alt="..."></li>
-                            <li><img src="/img/letojanni/06.jpg" loading="lazy" alt="..."></li>
-                            <li><img src="/img/letojanni/07.jpg" loading="lazy" alt="..."></li>
-                            <li><img src="/img/letojanni/08.jpg" loading="lazy" alt="..."></li>
-                            <li><img src="/img/letojanni/09.jpg" loading="lazy" alt="..."></li>
-                            <li><img src="/img/letojanni/10.jpg" loading="lazy" alt="..."></li>
-                            <li><img src="/img/letojanni/11.jpg" loading="lazy" alt="..."></li>
-                            <li><img src="/img/letojanni/12.jpg" loading="lazy" alt="..."></li>
+                            <li><img src="/img/letojanni/01.jpg" loading="lazy" alt="Una foto della casa a Calatabiano"></li>
+                            <li><img src="/img/letojanni/02.jpg" loading="lazy" alt="Una foto della casa a Calatabiano"></li>
+                            <li><img src="/img/letojanni/03.jpg" loading="lazy" alt="Una foto della casa a Calatabiano"></li>
+                            <li><img src="/img/letojanni/04.jpg" loading="lazy" alt="Una foto della casa a Calatabiano"></li>
+                            <li><img src="/img/letojanni/05.jpg" loading="lazy" alt="Una foto della casa a Calatabiano"></li>
+                            <li><img src="/img/letojanni/06.jpg" loading="lazy" alt="Una foto della casa a Calatabiano"></li>
+                            <li><img src="/img/letojanni/07.jpg" loading="lazy" alt="Una foto della casa a Calatabiano"></li>
+                            <li><img src="/img/letojanni/08.jpg" loading="lazy" alt="Una foto della casa a Calatabiano"></li>
+                            <li><img src="/img/letojanni/09.jpg" loading="lazy" alt="Una foto della casa a Calatabiano"></li>
+                            <li><img src="/img/letojanni/10.jpg" loading="lazy" alt="Una foto della casa a Calatabiano"></li>
+                            <li><img src="/img/letojanni/11.jpg" loading="lazy" alt="Una foto della casa a Calatabiano"></li>
+                            <li><img src="/img/letojanni/12.jpg" loading="lazy" alt="Una foto della casa a Calatabiano"></li>
                         </ul>
 
                         <button type="button" class="slider-nav" aria-label="Go left"></button>

@@ -122,10 +122,10 @@
     <div class="container-fluid py-5 my-5 cards-container1">
         <div class="row justify-content-evenly d-flex">
 
-            <div class="col-12 col-md-4 justify-content-center d-flex m-0 bg-white card-contorn p-3 card-invsible">
+            <div class="col-12 col-md-4 justify-content-center d-flex mx-0 my-2 bg-white card-contorn p-3 card-invsible">
                 <div class="card-border">
                     <a href="{{ route('appartments') }}">
-                        <div class="card shadow-lg p-3" style="width: 18rem;">
+                        <div class="card shadow-lg p-3">
                             <div class="card-body">
                                 <h5 class="card-title text-end orange-text font-old"><span class="fst-italic">
                                         Comfort</span> Rooms</h5>
@@ -139,10 +139,10 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 justify-content-center d-flex m-0 bg-white card-contorn p-3 card-invsible">
+            <div class="col-12 col-md-4 justify-content-center d-flex mx-0 my-2 bg-white card-contorn p-3 card-invsible">
                 <div class="card-border">
                     <a href="{{ route('contact') }}">
-                        <div class="card shadow-lg p-3" style="width: 18rem;">
+                        <div class="card shadow-lg p-3">
                             <div class="card-body">
                                 <h5 class="card-title text-end orange-text font-old"><span
                                         class="fst-italic">Friendly</span> Team</h5>
@@ -157,10 +157,10 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 justify-content-center d-flex m-0 bg-white card-contorn p-3 card-invsible">
+            <div class="col-12 col-md-4 justify-content-center d-flex mx-0 my-2 bg-white card-contorn p-3 card-invsible">
                 <div class="card-border">
                     <a href="{{ route('merchandising') }}">
-                        <div class="card shadow-lg p-3" style="width: 18rem;">
+                        <div class="card shadow-lg p-3">
                             <div class="card-body">
                                 <h5 class="card-title text-end orange-text font-old"><span
                                         class="fst-italic">Handmade</span> Creations</h5>
@@ -222,9 +222,9 @@
     <div class="container-fluid py-5 my-5 cards-container2">
         <div class="row justify-content-evenly d-flex text-center">
 
-            <div class="col-12 col-md-4 justify-content-center d-flex m-0 bg-white card-contorn p-3 card-invsible">
+            <div class="col-12 col-md-4 justify-content-center d-flex mx-0 my-2 bg-white card-contorn p-3 card-invsible">
                 <div class="card-border">
-                    <div class="card shadow-lg p-3" style="width: 18rem;">
+                    <div class="card shadow-lg p-3">
                         <div class="card-body">
                             <p class="card-text text-dark"><br> “Cosa ti manca dalla Sicilia?”<br>
                                 “U scrusciu du mari” <br><br><br></p>
@@ -237,9 +237,9 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 justify-content-center d-flex m-0 bg-white card-contorn p-3 card-invsible">
+            <div class="col-12 col-md-4 justify-content-center d-flex mx-0 my-2 bg-white card-contorn p-3 card-invsible">
                 <div class="card-border">
-                    <div class="card shadow-lg p-3" style="width: 18rem;">
+                    <div class="card shadow-lg p-3">
                         <div class="card-body">
                             <p class="card-text text-dark">Viaggiare è camminare verso l’orizzonte, incontrare l’altro,
                                 conoscere, scoprire e tornare più ricchi di quando si era iniziato il cammino.</p>
@@ -252,9 +252,9 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 justify-content-center d-flex m-0 bg-white card-contorn p-3 card-invsible">
+            <div class="col-12 col-md-4 justify-content-center d-flex mx-0 my-2 bg-white card-contorn p-3 card-invsible">
                 <div class="card-border">
-                    <div class="card shadow-lg p-3" style="width: 18rem;">
+                    <div class="card shadow-lg p-3">
                         <div class="card-body">
                             <p class="card-text text-dark"><br>La vita è un viaggio e chi viaggia vive due volte. <br><br><br></p>
                             <hr class="hr1">
@@ -271,12 +271,12 @@
     <div class="container presentazione2 py-3 shadow-lg p-3 my-5 text-invisible">
         <div class="row align-items-center">
             <img src="/img/13.jpg" alt="" class="col-12 col-md-4">
-            <p class="col-12 col-md-2 font-primary presentazione-testo1 text-dark ps-0 pe-2 py-1">
+            <p class="col-12 col-md-2 font-primary presentazione-testo1 text-dark ps-2 pe-2 py-1 m-0">
                 <strong class="font-old greater"><span class="orange-text">T</span>ra comfort e relax i Peter’s
                     House studiati nei minimi dettagli e
                     forniti di tutto il necessario renderanno le vostre vacanze uniche.</strong>
             </p>
-            <p class="col-12 col-md-2 font-primary presentazione-testo2 pe-0 ps-2 text-dark py-1 text-end">
+            <p class="col-12 col-md-2 font-primary presentazione-testo2 pe-2 ps-2 text-dark py-1 m-0 text-end">
                 <strong class="font-old greater"><span class="orange-text">L</span>e T-shirt bianche e i
                     portachiavi si trasformano nelle nostre tele per
                     raccontare le vostre storie attraverso disegni unici e divertenti ricamati interamente a

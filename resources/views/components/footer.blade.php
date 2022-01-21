@@ -1,5 +1,5 @@
-<div class="container-fluid justify-content-center rounded bg-black pt-3 mt-5">
-    <div class="row col-12 justify-content-between text-center text-white font-terzary">
+<div class="container-fluid d-flex justify-content-center align-items-center rounded bg-black pt-3 mt-5">
+    <div class="row d-flex col-12 justify-content-center text-center text-white font-terzary">
 
 
         <div class="row col-12 col-md-4">

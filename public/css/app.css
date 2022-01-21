@@ -11655,6 +11655,10 @@ a i:hover, .appartment-link:hover {
     clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 15%);
   }
 }
-
+@media screen and (max-width : 499px) {
+    .carousel-head {
+        height: 65vh;
+    }
+}
 
 
