@@ -12,7 +12,7 @@
                             <img src="/img/letojanni/01.jpg" alt="" class="img-fluid">
 
                         </div>
-                        <a href="#" class="appartment-link">
+                        <a href="#letojanni" class="appartment-link">
                             <h3 class="card-footer font-old text-center" id="letojanni-arrow">
                                 Letojanni <i class="fa-solid fa-circle-arrow-down"></i>
                             </h3>
@@ -30,7 +30,7 @@
                             <img src="/img/calatabiano/01.jpg" alt="" class="img-fluid">
 
                         </div>
-                        <a href="#" class="appartment-link">
+                        <a href="#calatabiano" class="appartment-link">
                             <h3 class="card-footer font-old text-center" id="calatabiano-arrow">
                                 Calatabiano <i class="fa-solid fa-circle-arrow-down"></i>
                             </h3>

@@ -11361,6 +11361,7 @@ hr {
 
     opacity: 1 !important;
     transition: 2s;
+    /* animation: text-animation 2s cubic-bezier(0.215, 0.61, 0.355, 1); */
 
 }
 
