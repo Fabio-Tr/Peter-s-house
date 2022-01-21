@@ -29,7 +29,7 @@
 }
 
 .greater {
- font-size: larger;
+    font-size: larger;
 }
 
 a:link {
@@ -59,21 +59,25 @@ hr {
     border-radius: 50%;
     color: var(--terzary);
 }
+
 .hr1 {
     border: 2px solid var(--terzary);
 }
+
 .carousel-head {
     height: 95vh;
 }
 
 .text-invisible {
     opacity: 0;
+    transition: 2s;
 }
+
 .text-visible {
 
-    /* animation: text-animation 2s cubic-bezier(0.215, 0.61, 0.355, 1); */
-    
     opacity: 1 !important;
+    transition: 2s;
+
 }
 
 .cards-container1 {
@@ -82,6 +86,7 @@ hr {
     background-position: center center;
     background-size: cover;
 }
+
 .cards-container2 {
     background-image: url(/img/10.jpg);
     background-repeat: no-repeat;
@@ -90,12 +95,13 @@ hr {
 }
 
 .card-border {
- border: solid black 1px;
+    border: solid black 1px;
 }
 
 .card-contorn {
     width: 20rem;
 }
+
 .card-contorn-appartments {
     width: 42rem;
 }
@@ -113,6 +119,7 @@ hr {
     opacity: 1;
 
 }
+
 .card-invisible:hover {
     box-shadow: 0 2rem 2rem var(--terzary) !important;
 

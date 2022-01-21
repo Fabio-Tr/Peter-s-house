@@ -182,7 +182,7 @@
         </div>
     </div>
 
-    <div class="container presentazione1 py-3 shadow-lg p-3 my-5">
+    <div class="container presentazione1 py-3 shadow-lg p-3 my-5 text-invisible">
         <div class="row align-items-center">
             <p class="col-12 col-md-3 font-primary presentazione-testo1 text-dark ps-0 pe-2 py-1 text-end">
                 <strong class="font-old greater"><span class="orange-text">U</span>n piccolo angolo di paradiso
@@ -268,7 +268,7 @@
         </div>
     </div>
 
-    <div class="container presentazione2 py-3 shadow-lg p-3 my-5">
+    <div class="container presentazione2 py-3 shadow-lg p-3 my-5 text-invisible">
         <div class="row align-items-center">
             <img src="/img/13.jpg" alt="" class="col-12 col-md-4">
             <p class="col-12 col-md-2 font-primary presentazione-testo1 text-dark ps-0 pe-2 py-1">
