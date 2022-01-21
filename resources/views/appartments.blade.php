@@ -3,7 +3,7 @@
         <div class="row justify-content-evenly d-flex">
             <h1 class="col-12 text-center font-old my-5 pt-3">Gli Appartamenti</h1>
 
-            <div class="col-12 col-md-6 justify-content-center d-flex m-0 bg-white card-contorn-appartments p-3 card-invsible">
+            <div class="col-12 col-md-6 justify-content-center d-flex mx-0 my-2 bg-white card-contorn-appartments p-3 card-invsible">
                 <div class="card-border">
                     <div class="card shadow-lg p-3">
                         <div class="card-body">
@@ -21,7 +21,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-6 justify-content-center d-flex m-0 bg-white card-contorn-appartments p-3 card-invsible">
+            <div class="col-12 col-md-6 justify-content-center d-flex mx-0 my-2 bg-white card-contorn-appartments p-3 card-invsible">
                 <div class="card-border">
                     <div class="card shadow-lg p-3">
                         <div class="card-body">
@@ -67,7 +67,7 @@
                         </p>
                     </div>
 
-                    <div class="swiffy-slider slider-nav-autoplay slider-item-reveal slider-nav-round slider-item-ratio slider-item-ratio-4x3 py-3"
+                    <div class="swiffy-slider slider-nav-autoplay slider-item-reveal slider-item-ratio slider-item-ratio-4x3 py-3"
                         id="slider1" data-slider-nav-autoplay-interval="3500">
                         <ul class="slider-container">
                             <li><img src="/img/letojanni/01.jpg" loading="lazy" alt="Una foto della casa a Letojanni"></li>
@@ -155,7 +155,7 @@
                         </p>
                     </div>
 
-                    <div class="swiffy-slider slider-nav-autoplay slider-item-reveal slider-nav-round slider-item-ratio slider-item-ratio-4x3 py-3"
+                    <div class="swiffy-slider slider-nav-autoplay slider-item-reveal slider-item-ratio slider-item-ratio-4x3 py-3"
                         id="slider1" data-slider-nav-autoplay-interval="3500">
                         <ul class="slider-container">
                             <li><img src="/img/letojanni/01.jpg" loading="lazy" alt="Una foto della casa a Calatabiano"></li>

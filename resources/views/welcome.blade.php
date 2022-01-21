@@ -30,9 +30,9 @@
     <div class="container-fluid mx-0 px-0 mb-5">
 
 
-        <div class="swiffy-slider slider-nav-autoplay slider-nav-round slider-nav-animation slider-nav-animation-fadein slider-item-first-visible carousel-head"
+        <div class="swiffy-slider slider-nav-autoplay slider-nav-animation slider-nav-animation-fadein slider-item-first-visible carousel-head"
             data-slider-nav-autoplay-interval="5500">
-            <ul class="slider-container">
+            <ul class="slider-container justify-content-center">
                 <li class="slide-visible">
                     <div class="card rounded-0 h-100">
                         <div class="row g-0 h-100">
@@ -74,11 +74,11 @@
                                         deciso di ristrutturare la casetta al mare. La nostra idea di “casa vacanze”
                                         nasce dalla voglia di far trascorrere un soggiorno in tranquillità con tutto
                                         il necessario che soltanto in una casa si può trovare.
-                                        <br><br>
+                                        <br>
                                         Ci teniamo a raccontarvi un po’ di più sulla nostra amata Sicilia, a
                                         fornirvi tutte quelle dritte che in una vacanza sono fondamentali per
                                         conoscere meglio ed esplorare il luogo.
-                                        <br><br>
+                                        <br>
                                         Papà Pietro, mamma Antonella, Clarissa e Gloria vi aspettano.
                                     </p>
                                 </div>
