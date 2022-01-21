@@ -122,7 +122,7 @@
     <div class="container-fluid py-5 my-5 cards-container1">
         <div class="row justify-content-evenly d-flex">
 
-            <div class="col-12 col-md-4 justify-content-center d-flex m-0 bg-white card-contorn p-3 card1">
+            <div class="col-12 col-md-4 justify-content-center d-flex m-0 bg-white card-contorn p-3 card-invsible">
                 <div class="card-border">
                     <a href="{{ route('appartments') }}">
                         <div class="card shadow-lg p-3" style="width: 18rem;">
@@ -139,7 +139,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 justify-content-center d-flex m-0 bg-white card-contorn p-3 card2">
+            <div class="col-12 col-md-4 justify-content-center d-flex m-0 bg-white card-contorn p-3 card-invsible">
                 <div class="card-border">
                     <a href="{{ route('contact') }}">
                         <div class="card shadow-lg p-3" style="width: 18rem;">
@@ -157,7 +157,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 justify-content-center d-flex m-0 bg-white card-contorn p-3 card3">
+            <div class="col-12 col-md-4 justify-content-center d-flex m-0 bg-white card-contorn p-3 card-invsible">
                 <div class="card-border">
                     <a href="{{ route('merchandising') }}">
                         <div class="card shadow-lg p-3" style="width: 18rem;">
@@ -222,7 +222,7 @@
     <div class="container-fluid py-5 my-5 cards-container2">
         <div class="row justify-content-evenly d-flex text-center">
 
-            <div class="col-12 col-md-4 justify-content-center d-flex m-0 bg-white card-contorn p-3">
+            <div class="col-12 col-md-4 justify-content-center d-flex m-0 bg-white card-contorn p-3 card-invsible">
                 <div class="card-border">
                     <div class="card shadow-lg p-3" style="width: 18rem;">
                         <div class="card-body">
@@ -237,7 +237,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 justify-content-center d-flex m-0 bg-white card-contorn p-3">
+            <div class="col-12 col-md-4 justify-content-center d-flex m-0 bg-white card-contorn p-3 card-invsible">
                 <div class="card-border">
                     <div class="card shadow-lg p-3" style="width: 18rem;">
                         <div class="card-body">
@@ -252,7 +252,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 justify-content-center d-flex m-0 bg-white card-contorn p-3">
+            <div class="col-12 col-md-4 justify-content-center d-flex m-0 bg-white card-contorn p-3 card-invsible">
                 <div class="card-border">
                     <div class="card shadow-lg p-3" style="width: 18rem;">
                         <div class="card-body">

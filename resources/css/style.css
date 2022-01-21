@@ -66,6 +66,16 @@ hr {
     height: 95vh;
 }
 
+.text-invisible {
+    opacity: 0;
+}
+.text-visible {
+
+    /* animation: text-animation 2s cubic-bezier(0.215, 0.61, 0.355, 1); */
+    
+    opacity: 1 !important;
+}
+
 .cards-container1 {
     background-image: url(/img/6.jpg);
     background-repeat: no-repeat;
@@ -89,49 +99,21 @@ hr {
 .card-contorn-appartments {
     width: 42rem;
 }
-.card1 {
+
+.card-invsible {
     position: relative;
-    left: -5000px;
-    transition: 2s 4s cubic-bezier(0.215, 0.61, 0.355, 1);
+    left: -100px;
+    transition: 2s cubic-bezier(0.215, 0.61, 0.355, 1);
     opacity: 0;
 }
 
-.card-trans1 {
+.card-visible {
     left: 0px !important;
     transition: 2s cubic-bezier(0.215, 0.61, 0.355, 1);
     opacity: 1;
 
 }
-
-.card2 {
-    position: relative;
-    left: -5000px;
-    transition: 2s cubic-bezier(0.215, 0.61, 0.355, 1);
-    opacity: 0;
-}
-
-.card-trans2 {
-    left: 0px !important;
-    transition: 2s cubic-bezier(0.215, 0.61, 0.355, 1);
-    opacity: 1;
-
-}
-
-.card3 {
-    position: relative;
-    left: -5000px;
-    transition: 2s cubic-bezier(0.215, 0.61, 0.355, 1);
-    opacity: 0;
-}
-
-.card-trans3 {
-    left: 0px !important;
-    transition: 2s cubic-bezier(0.215, 0.61, 0.355, 1);
-    opacity: 1;
-
-}
-
-.card1:hover, .card2:hover, .card3:hover {
+.card-invisible:hover {
     box-shadow: 0 2rem 2rem var(--terzary) !important;
 
 }
