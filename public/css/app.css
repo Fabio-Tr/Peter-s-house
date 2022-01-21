@@ -11414,6 +11414,21 @@ hr {
 
 }
 
+.card-where1 {
+    background-color: var(--background);
+    border-width: 3px;
+    border-style: solid;
+    -o-border-image: linear-gradient(45deg, rgba(255, 255, 255, 0), black) 1;
+       border-image: linear-gradient(45deg, rgba(255, 255, 255, 0), black) 1;
+}
+
+.card-where2 {
+    background-color: var(--background);
+    border-width: 3px;
+    border-style: solid;
+    -o-border-image: linear-gradient(45deg, black, rgba(255, 255, 255, 0)) 1;
+       border-image: linear-gradient(45deg, black, rgba(255, 255, 255, 0)) 1;
+}
 
 
 .first-title {
@@ -11543,10 +11558,10 @@ a i:hover, .appartment-link:hover {
 
 
 
-.swiper {
+/* .swiper {
     width: 600px;
     height: 300px;
-  }
+  } */
 @-webkit-keyframes text-animation {
   from {
     -webkit-clip-path: polygon(0 100%, 100% 100%, 100% 100%, 0% 100%);

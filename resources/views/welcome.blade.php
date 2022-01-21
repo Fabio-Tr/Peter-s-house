@@ -91,11 +91,9 @@
                         <img src="/img/taormina2.jpg"" class="        card-img h-100"
                             style="max-height: 100%; max-width: 100%; object-fit: cover" alt="...">
                         <div
-                            class="card-img-overlay d-flex align-items-start align-items-md-center justify-content-center flex-column">
-                            <h2 class="card-title h1 d-block d-md-inline-block font-old">The Aston Martin DB5</h2>
-                            <p class="card-text lead col-md-8 col-lg-6">The Aston Martin DB5 is a British luxury
-                                grand tourer (GT) that was made by Aston Martin and designed by the Italian
-                                coachbuilder Carrozzeria Touring Superleggera. </p>
+                            class="card-img-overlay d-flex align-items-start align-items-md-center justify-content-center flex-column text-center">
+                            <h2 class="card-title h1 d-block d-md-inline-block font-old orange-text">Un mondo da scroprire</h2>
+                            <p class="card-text lead col-md-8 col-lg-6">Che decidiate di scalare l’Etna o di rilassarvi al mare la Sicilia non vi deluderà mai.</p>
                         </div>
                     </div>
                 </li>
@@ -132,7 +130,7 @@
                                 <hr class="hr1">
                                 <p class="card-text text-dark">Ampie e luminose le nostre camere sono adatte sia per
                                     famiglie
-                                    che per coppie.</p>
+                                    che per coppie <i class="fa-solid fa-arrow-right-long"></i></p>
                             </div>
                         </div>
                     </a>
@@ -150,7 +148,7 @@
                                 <p class="card-text text-dark">Consigliamo ai nostri ospiti come trascorrere al
                                     meglio
                                     il
-                                    proprio soggiorno.</p>
+                                    proprio soggiorno <i class="fa-solid fa-arrow-right-long"></i></p>
                             </div>
                         </div>
                     </a>
@@ -167,7 +165,7 @@
                                 <hr class="hr1">
                                 <p class="card-text text-dark">Ricamate a mano, le nostre creazioni, vi regaleranno
                                     un
-                                    ricordo della Sicilia.</p>
+                                    ricordo della Sicilia <i class="fa-solid fa-arrow-right-long"></i></p>
                             </div>
                         </div>
                     </a>
@@ -200,14 +198,14 @@
             </p>
             <img src="/img/7.jpg" alt="" class="col-12 col-md-6">
             <p class="col-12 col-md-3 font-primary presentazione-testo2 pe-0 ps-2 text-dark py-1">
-                <strong><span class="font-old greater">Peter’s House</span></strong> conta 2 appartamenti.
+                <strong class="font-old greater"><span class="orange-text">P</span>eter’s House conta 2 appartamenti.</strong>
                 Il primo apre nel 2018 a Letojanni (Me) a soli 30 metri dall’azzurro mare dell’isola.
                 Curato nei minimi dettagli e fornito di tutto il necessario per trascorrere un soggiorno tranquillo
                 e con tutti i comfort.
                 Nel 2021 il secondo Peter’s House apre a Calatabiano (Ct) nella città del castello arabo-normanno.
                 Dall’ampio terrazzo si può sorseggiare un cocktail con vista Etna e Taormina.
                 <br><br>
-                <strong class="font-old greater">Il caloroso staff di Peter’s House, formato da papà Peter, mamma
+                <strong class="font-old greater"><span class="orange-text">I</span>l caloroso staff di Peter’s House, formato da papà Peter, mamma
                     Antonella, Gloria e Clarissa, è
                     pronto
                     ad accogliervi nelle vostre vacanze.</strong>
@@ -222,11 +220,11 @@
         <div class="row align-items-center">
             <img src="/img/13.jpg" alt="" class="col-12 col-md-4">
             <p class="col-12 col-md-2 font-primary presentazione-testo1 text-dark ps-0 pe-2 py-1">
-                <strong class="font-old greater">Tra comfort e relax i Peter’s House studiati nei minimi dettagli e
+                <strong class="font-old greater"><span class="orange-text">T</span>ra comfort e relax i Peter’s House studiati nei minimi dettagli e
                     forniti di tutto il necessario renderanno le vostre vacanze uniche.</strong>
             </p>
             <p class="col-12 col-md-2 font-primary presentazione-testo2 pe-0 ps-2 text-dark py-1 text-end">
-                <strong class="font-old greater">Le T-shirt bianche e i portachiavi si trasformano nelle nostre tele per
+                <strong class="font-old greater"><span class="orange-text">L</span>e T-shirt bianche e i portachiavi si trasformano nelle nostre tele per
                     raccontare le vostre storie attraverso disegni unici e divertenti ricamati interamente a
                     mano.</strong>
             </p>
