@@ -11352,6 +11352,10 @@ hr {
     height: 95vh;
 }
 
+.carousel-apartments {
+    /* max-height: 80vh; */
+}
+
 .text-invisible {
     opacity: 0;
     transition: 2s;

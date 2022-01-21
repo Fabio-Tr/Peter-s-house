@@ -21,7 +21,7 @@
                 <a class="nav-link" href="{{route('appartments')}}">Gli appartamenti</a>
                 <a class="nav-link" href="{{route('where')}}">Come raggiungerci</a>
                 <a class="nav-link" href="{{route('merchandising')}}">Merchandising</a>
-                <a class="nav-link" href="{{route('what')}}">Cosa vedere</a>             
+                {{-- <a class="nav-link" href="{{route('what')}}">Cosa vedere</a> --}}             
                 <a class="nav-link" href="{{route('contact')}}">Contattaci</a>
             </div>
         </div>

@@ -3,7 +3,8 @@
         <div class="row justify-content-evenly d-flex">
             <h1 class="col-12 text-center font-old my-5 pt-3">Gli Appartamenti</h1>
 
-            <div class="col-12 col-md-6 justify-content-center d-flex mx-0 my-2 bg-white card-contorn-appartments p-3 card-invsible">
+            <div
+                class="col-12 col-md-6 justify-content-center d-flex mx-0 my-2 bg-white card-contorn-appartments p-3 card-invsible">
                 <div class="card-border">
                     <div class="card shadow-lg p-3">
                         <div class="card-body">
@@ -21,7 +22,8 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-6 justify-content-center d-flex mx-0 my-2 bg-white card-contorn-appartments p-3 card-invsible">
+            <div
+                class="col-12 col-md-6 justify-content-center d-flex mx-0 my-2 bg-white card-contorn-appartments p-3 card-invsible">
                 <div class="card-border">
                     <div class="card shadow-lg p-3">
                         <div class="card-body">
@@ -67,21 +69,33 @@
                         </p>
                     </div>
 
-                    <div class="swiffy-slider slider-nav-autoplay slider-item-reveal slider-item-ratio slider-item-ratio-4x3 py-3"
+                    <div class="swiffy-slider slider-nav-autoplay slider-item-reveal slider-item-ratio slider-item-ratio-4x3 py-3 carousel-apartments"
                         id="slider1" data-slider-nav-autoplay-interval="3500">
                         <ul class="slider-container">
-                            <li><img src="/img/letojanni/01.jpg" loading="lazy" alt="Una foto della casa a Letojanni"></li>
-                            <li><img src="/img/letojanni/02.jpg" loading="lazy" alt="Una foto della casa a Letojanni"></li>
-                            <li><img src="/img/letojanni/03.jpg" loading="lazy" alt="Una foto della casa a Letojanni"></li>
-                            <li><img src="/img/letojanni/04.jpg" loading="lazy" alt="Una foto della casa a Letojanni"></li>
-                            <li><img src="/img/letojanni/05.jpg" loading="lazy" alt="Una foto della casa a Letojanni"></li>
-                            <li><img src="/img/letojanni/06.jpg" loading="lazy" alt="Una foto della casa a Letojanni"></li>
-                            <li><img src="/img/letojanni/07.jpg" loading="lazy" alt="Una foto della casa a Letojanni"></li>
-                            <li><img src="/img/letojanni/08.jpg" loading="lazy" alt="Una foto della casa a Letojanni"></li>
-                            <li><img src="/img/letojanni/09.jpg" loading="lazy" alt="Una foto della casa a Letojanni"></li>
-                            <li><img src="/img/letojanni/10.jpg" loading="lazy" alt="Una foto della casa a Letojanni"></li>
-                            <li><img src="/img/letojanni/11.jpg" loading="lazy" alt="Una foto della casa a Letojanni"></li>
-                            <li><img src="/img/letojanni/12.jpg" loading="lazy" alt="Una foto della casa a Letojanni"></li>
+                            <li><img src="/img/letojanni/01.jpg" loading="lazy" alt="Una foto della casa a Letojanni">
+                            </li>
+                            <li><img src="/img/letojanni/02.jpg" loading="lazy" alt="Una foto della casa a Letojanni">
+                            </li>
+                            <li><img src="/img/letojanni/03.jpg" loading="lazy" alt="Una foto della casa a Letojanni">
+                            </li>
+                            <li><img src="/img/letojanni/04.jpg" loading="lazy" alt="Una foto della casa a Letojanni">
+                            </li>
+                            <li><img src="/img/letojanni/05.jpg" loading="lazy" alt="Una foto della casa a Letojanni">
+                            </li>
+                            <li><img src="/img/letojanni/06.jpg" loading="lazy" alt="Una foto della casa a Letojanni">
+                            </li>
+                            <li><img src="/img/letojanni/07.jpg" loading="lazy" alt="Una foto della casa a Letojanni">
+                            </li>
+                            <li><img src="/img/letojanni/08.jpg" loading="lazy" alt="Una foto della casa a Letojanni">
+                            </li>
+                            <li><img src="/img/letojanni/09.jpg" loading="lazy" alt="Una foto della casa a Letojanni">
+                            </li>
+                            <li><img src="/img/letojanni/10.jpg" loading="lazy" alt="Una foto della casa a Letojanni">
+                            </li>
+                            <li><img src="/img/letojanni/11.jpg" loading="lazy" alt="Una foto della casa a Letojanni">
+                            </li>
+                            <li><img src="/img/letojanni/12.jpg" loading="lazy" alt="Una foto della casa a Letojanni">
+                            </li>
                         </ul>
 
                         <button type="button" class="slider-nav" aria-label="Go left"></button>
@@ -102,7 +116,7 @@
                             <button aria-label="Go to slide"></button>
                         </div>
 
-                        <div
+                        {{-- <div
                             class="slider-indicators slider-indicators-sm slider-indicators-dark slider-indicators-round d-md-none slider-indicators-highlight">
                             <button class="active" aria-label="Go to slide"></button>
                             <button aria-label="Go to slide"></button>
@@ -116,7 +130,7 @@
                             <button aria-label="Go to slide"></button>
                             <button aria-label="Go to slide"></button>
                             <button aria-label="Go to slide"></button>
-                        </div>
+                        </div> --}}
                     </div>
 
 
@@ -155,21 +169,33 @@
                         </p>
                     </div>
 
-                    <div class="swiffy-slider slider-nav-autoplay slider-item-reveal slider-item-ratio slider-item-ratio-4x3 py-3"
+                    <div class="swiffy-slider slider-nav-autoplay slider-item-reveal slider-item-ratio slider-item-ratio-4x3 py-3 carousel-apartments"
                         id="slider1" data-slider-nav-autoplay-interval="3500">
                         <ul class="slider-container">
-                            <li><img src="/img/letojanni/01.jpg" loading="lazy" alt="Una foto della casa a Calatabiano"></li>
-                            <li><img src="/img/letojanni/02.jpg" loading="lazy" alt="Una foto della casa a Calatabiano"></li>
-                            <li><img src="/img/letojanni/03.jpg" loading="lazy" alt="Una foto della casa a Calatabiano"></li>
-                            <li><img src="/img/letojanni/04.jpg" loading="lazy" alt="Una foto della casa a Calatabiano"></li>
-                            <li><img src="/img/letojanni/05.jpg" loading="lazy" alt="Una foto della casa a Calatabiano"></li>
-                            <li><img src="/img/letojanni/06.jpg" loading="lazy" alt="Una foto della casa a Calatabiano"></li>
-                            <li><img src="/img/letojanni/07.jpg" loading="lazy" alt="Una foto della casa a Calatabiano"></li>
-                            <li><img src="/img/letojanni/08.jpg" loading="lazy" alt="Una foto della casa a Calatabiano"></li>
-                            <li><img src="/img/letojanni/09.jpg" loading="lazy" alt="Una foto della casa a Calatabiano"></li>
-                            <li><img src="/img/letojanni/10.jpg" loading="lazy" alt="Una foto della casa a Calatabiano"></li>
-                            <li><img src="/img/letojanni/11.jpg" loading="lazy" alt="Una foto della casa a Calatabiano"></li>
-                            <li><img src="/img/letojanni/12.jpg" loading="lazy" alt="Una foto della casa a Calatabiano"></li>
+                            <li><img src="/img/letojanni/01.jpg" loading="lazy" alt="Una foto della casa a Calatabiano">
+                            </li>
+                            <li><img src="/img/letojanni/02.jpg" loading="lazy" alt="Una foto della casa a Calatabiano">
+                            </li>
+                            <li><img src="/img/letojanni/03.jpg" loading="lazy" alt="Una foto della casa a Calatabiano">
+                            </li>
+                            <li><img src="/img/letojanni/04.jpg" loading="lazy" alt="Una foto della casa a Calatabiano">
+                            </li>
+                            <li><img src="/img/letojanni/05.jpg" loading="lazy" alt="Una foto della casa a Calatabiano">
+                            </li>
+                            <li><img src="/img/letojanni/06.jpg" loading="lazy" alt="Una foto della casa a Calatabiano">
+                            </li>
+                            <li><img src="/img/letojanni/07.jpg" loading="lazy" alt="Una foto della casa a Calatabiano">
+                            </li>
+                            <li><img src="/img/letojanni/08.jpg" loading="lazy" alt="Una foto della casa a Calatabiano">
+                            </li>
+                            <li><img src="/img/letojanni/09.jpg" loading="lazy" alt="Una foto della casa a Calatabiano">
+                            </li>
+                            <li><img src="/img/letojanni/10.jpg" loading="lazy" alt="Una foto della casa a Calatabiano">
+                            </li>
+                            <li><img src="/img/letojanni/11.jpg" loading="lazy" alt="Una foto della casa a Calatabiano">
+                            </li>
+                            <li><img src="/img/letojanni/12.jpg" loading="lazy" alt="Una foto della casa a Calatabiano">
+                            </li>
                         </ul>
 
                         <button type="button" class="slider-nav" aria-label="Go left"></button>
@@ -190,7 +216,7 @@
                             <button aria-label="Go to slide"></button>
                         </div>
 
-                        <div
+                        {{-- <div
                             class="slider-indicators slider-indicators-sm slider-indicators-dark slider-indicators-round d-md-none slider-indicators-highlight">
                             <button class="active" aria-label="Go to slide"></button>
                             <button aria-label="Go to slide"></button>
@@ -204,7 +230,7 @@
                             <button aria-label="Go to slide"></button>
                             <button aria-label="Go to slide"></button>
                             <button aria-label="Go to slide"></button>
-                        </div>
+                        </div> --}}
                     </div>
 
 
