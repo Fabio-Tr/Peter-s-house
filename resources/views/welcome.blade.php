@@ -32,7 +32,7 @@
 
         <div class="swiffy-slider slider-nav-autoplay slider-nav-animation slider-nav-animation-fadein slider-item-first-visible carousel-head"
             data-slider-nav-autoplay-interval="5500">
-            <ul class="slider-container justify-content-center">
+            <ul class="slider-container">
                 <li class="slide-visible">
                     <div class="card rounded-0 h-100">
                         <div class="row g-0 h-100">
