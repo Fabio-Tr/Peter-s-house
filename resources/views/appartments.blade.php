@@ -67,7 +67,7 @@
                         </p>
                     </div>
 
-                    <div class="swiffy-slider slider-nav-autoplay slider-item-reveal slider-nav-round slider-item-ratio slider-item-ratio-21x9 py-3"
+                    <div class="swiffy-slider slider-nav-autoplay slider-item-reveal slider-nav-round slider-item-ratio slider-item-ratio-4x3 py-3"
                         id="slider1" data-slider-nav-autoplay-interval="3500">
                         <ul class="slider-container">
                             <li><img src="/img/letojanni/01.jpg" loading="lazy" alt="..."></li>
