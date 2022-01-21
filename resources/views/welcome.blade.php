@@ -123,7 +123,7 @@
 
                 <div class="col-12 col-md-4 justify-content-center d-flex m-0 bg-white card-contorn p-3 card1">
                     <div class="card-border">
-                        <a href="http://">
+                        <a href="{{route('appartments')}}">
                             <div class="card shadow-lg p-3" style="width: 18rem;">
                                 <div class="card-body">
                                     <h5 class="card-title text-end orange-text font-old"><span class="fst-italic">
@@ -140,7 +140,7 @@
 
                 <div class="col-12 col-md-4 justify-content-center d-flex m-0 bg-white card-contorn p-3 card2">
                     <div class="card-border">
-                        <a href="http://">
+                        <a href="{{route('contact')}}">
                             <div class="card shadow-lg p-3" style="width: 18rem;">
                                 <div class="card-body">
                                     <h5 class="card-title text-end orange-text font-old"><span
@@ -158,7 +158,7 @@
 
                 <div class="col-12 col-md-4 justify-content-center d-flex m-0 bg-white card-contorn p-3 card3">
                     <div class="card-border">
-                        <a href="http://">
+                        <a href="{{route('merchandising')}}">
                             <div class="card shadow-lg p-3" style="width: 18rem;">
                                 <div class="card-body">
                                     <h5 class="card-title text-end orange-text font-old"><span

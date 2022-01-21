@@ -11531,6 +11531,14 @@ a i:hover {
     border: solid var(--terzary) !important;
     color: var(--secondary);
 }
+
+
+
+
+.swiper {
+    width: 600px;
+    height: 300px;
+  }
 @-webkit-keyframes text-animation {
   from {
     -webkit-clip-path: polygon(0 100%, 100% 100%, 100% 100%, 0% 100%);

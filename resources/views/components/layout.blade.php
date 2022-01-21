@@ -27,18 +27,19 @@
 </head>
 
 <body>
-    <x-navbar/>
+    <x-navbar />
     <div itemscope itemtype="https://www.petershouse.it/Person">
 
-    {{ $slot }}
+        {{ $slot }}
 
 
 
-    <x-footer />
-</div>
+        <x-footer />
+    </div>
 
     <script src="https://cdn.jsdelivr.net/npm/swiffy-slider@1.3.1/dist/js/swiffy-slider.min.js" crossorigin="anonymous"
         defer></script>
+
     <script src="{{ asset('js/app.js') }}"></script>
 </body>
 
