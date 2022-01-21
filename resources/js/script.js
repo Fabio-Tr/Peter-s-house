@@ -48,6 +48,23 @@ window.onload = function () {
       presentazione.classList.add("presentazione-trans")
     }
 
+
+    document.getElementById('letojanni-arrow').onclick = function () {
+      var x = document.getElementById("letojanni");
+      var y = document.getElementById("calatabiano");
+      x.style.display = "block";
+      y.style.display = "none";
+
+  }
+
+  document.getElementById('calatabiano-arrow').onclick = function () {
+      var x = document.getElementById("calatabiano");
+      var y = document.getElementById("letojanni");
+      x.style.display = "block";
+      y.style.display = "none";
+
+  }
+
   }
 
 

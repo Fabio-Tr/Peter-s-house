@@ -1,4 +1,4 @@
-<div class="container-fluid justify-content-center rounded bg-black">
+<div class="container-fluid justify-content-center rounded bg-black pt-3 mt-5">
     <div class="row col-12 justify-content-between text-center text-white font-terzary">
 
 

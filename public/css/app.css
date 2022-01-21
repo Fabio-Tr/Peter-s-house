@@ -11435,12 +11435,20 @@ hr {
     margin-bottom: 0px;
 }
 
-.presentazione {
+.presentazione1 {
     background-color: var(--background);
     border-width: 3px;
     border-style: solid;
     -o-border-image: linear-gradient(rgba(255, 255, 255, 0), black) 1;
        border-image: linear-gradient(rgba(255, 255, 255, 0), black) 1;
+}
+
+.presentazione2 {
+    background-color: var(--background);
+    border-width: 3px;
+    border-style: solid;
+    -o-border-image: linear-gradient(black, rgba(255, 255, 255, 0)) 1;
+       border-image: linear-gradient(black, rgba(255, 255, 255, 0)) 1;
 }
 
 .presentazione-trans {
@@ -11459,12 +11467,12 @@ hr {
     border-color: var(--secondary) !important;
 }
 
-a i {
+a i, .appartment-link {
     color: var(--secondary);
     transition: all 0.25s;
 }
 
-a i:hover {
+a i:hover, .appartment-link:hover {
     color: var(--terzary);
     transition: all 0.25s;
 }

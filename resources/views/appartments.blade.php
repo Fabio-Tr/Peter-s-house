@@ -12,10 +12,11 @@
                             <img src="/img/letojanni/01.jpg" alt="" class="img-fluid">
 
                         </div>
-
-                        <h3 class="card-footer font-old text-center">
-                            Letojanni <i class="fa-solid fa-circle-arrow-down"></i>
-                        </h3>
+                        <a href="#" class="appartment-link">
+                            <h3 class="card-footer font-old text-center" id="letojanni-arrow">
+                                Letojanni <i class="fa-solid fa-circle-arrow-down"></i>
+                            </h3>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -29,15 +30,16 @@
                             <img src="/img/calatabiano/01.jpg" alt="" class="img-fluid">
 
                         </div>
-
-                        <h3 class="card-footer font-old text-center">
-                            Calatabiano <i class="fa-solid fa-circle-arrow-down"></i>
-                        </h3>
+                        <a href="#" class="appartment-link">
+                            <h3 class="card-footer font-old text-center" id="calatabiano-arrow">
+                                Calatabiano <i class="fa-solid fa-circle-arrow-down"></i>
+                            </h3>
+                        </a>
                     </div>
                 </div>
             </div>
 
-            <div class="col-12 bg-white p-5 m-5">
+            <div class="col-12 bg-white p-5 m-5" id="letojanni" style="display: none">
                 <h4 class="font-old">Nel cuore di Letojanni</h5>
                     <p>a 30 metri dal mare si trova Peter’s House a soli 5 minuti in auto da Taormina e a 8 km
                         dall’Isola
@@ -120,7 +122,7 @@
 
             </div>
 
-            <div class="col-12 bg-white p-5 m-5">
+            <div class="col-12 bg-white p-5 m-5" id="calatabiano" style="display: none">
                 <h4 class="font-old">Nel cuore di Calatabiano</h5>
                     <p>la città del Castello, si trova Peter’s House 2 a soli pochi minuti in auto dal limpido mare
                         azzurro del litorale di San Marco e a “due” passi dal Vulcano più alto d’Europa: l’Etna.♥
@@ -147,7 +149,8 @@
                         </h5>
                         <p>
                             Balcone con vista - Tv a schermo piatto - Aria condizionata - Bagno privato - Wifi -
-                            Ferro e asse da stiro - Lavatrice - Lavastoviglie - Set asciugamano - Biancheria da casa - Bincheria da
+                            Ferro e asse da stiro - Lavatrice - Lavastoviglie - Set asciugamano - Biancheria da casa -
+                            Bincheria da
                             letto - Divano Letto - Prodotti per pulizie - Asciuga capelli
                         </p>
                     </div>
