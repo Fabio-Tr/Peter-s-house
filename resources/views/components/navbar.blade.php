@@ -8,10 +8,10 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <div>
-            <a href="">
+            <a href="https://www.facebook.com/Peters-House-392808534569382">
                 <i class="fa-brands fa-facebook-square fs-2 px-1"></i>
             </a>
-            <a href="">
+            <a href="https://www.instagram.com/petershouse2018/">
                 <i class="fa-brands fa-instagram-square fs-2 px-1"></i>
             </a>
         </div>

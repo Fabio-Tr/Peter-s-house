@@ -66,8 +66,14 @@ hr {
     height: 95vh;
 }
 
-.cards-container {
+.cards-container1 {
     background-image: url(/img/6.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+.cards-container2 {
+    background-image: url(/img/10.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -126,7 +132,7 @@ hr {
 }
 
 .card1:hover, .card2:hover, .card3:hover {
-    box-shadow: 0 4rem 4rem var(--terzary) !important;
+    box-shadow: 0 2rem 2rem var(--terzary) !important;
 
 }
 

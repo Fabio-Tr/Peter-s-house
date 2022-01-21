@@ -38,8 +38,8 @@
                         <div class="row g-0 h-100">
                             <div class="col-md-6 col-xl-5 d-flex align-items-center p-2 p-md-3 p-xl-5">
                                 <div class="card-body p-1 p-md-3 p-xl-5">
-                                    <p class="lead font-old">Benvenuti a</p>
-                                    <h1 class="card-title orange-text font-old">Peter's House</h1>
+                                    <p class="lead font-old fs-2">Benvenuti a</p>
+                                    <h1 class="card-title orange-text font-old fs-1">Peter's House</h1>
                                     <p class="card-text mt-3">I nostri appartamenti con vista Etna e con vista mare
                                         nella baia di Taormina sono il connubio perfetto per le vostre vacanze tra i
                                         profumi e sapori della meravigliosa Sicilia!</p>
@@ -50,8 +50,8 @@
                             <div class="col-md-6 col-xl-7">
                                 <img src="/img/taormina.jpg" class="card-img d-none d-md-block" loading="lazy"
                                     style="height: 100%; object-fit: cover;" alt="...">
-                                <img src="/img/taormina.jpg"" class="        card-img d-block d-md-none" loading="lazy"
-                                    style="width: 100%; object-fit: cover;" alt="...">
+                                <img src="/img/taormina.jpg" class="           card-img d-block d-md-none"
+                                    loading="lazy" style="width: 100%; object-fit: cover;" alt="...">
                             </div>
                         </div>
                     </div>
@@ -60,10 +60,10 @@
                     <div class="card rounded-0 h-100">
                         <div class="row g-0 h-100">
                             <div class="col-md-6 col-xl-7">
-                                <img src="/img/taormina1.jpg"" class="        card-img d-none d-md-block" loading="lazy"
-                                    style="height: 100%; object-fit: cover" alt="...">
-                                <img src="/img/taormina1.jpg"" class="        card-img d-block d-md-none" loading="lazy"
-                                    style="width: 100%; object-fit: cover" alt="...">
+                                <img src="/img/taormina1.jpg" class="           card-img d-none d-md-block"
+                                    loading="lazy" style="height: 100%; object-fit: cover" alt="...">
+                                <img src="/img/taormina1.jpg" class="           card-img d-block d-md-none"
+                                    loading="lazy" style="width: 100%; object-fit: cover" alt="...">
                             </div>
                             <div class="col-md-6 col-xl-5 d-flex align-items-center p-2 p-md-3 p-xl-5">
                                 <div class="card-body p-1 p-md-3 p-xl-5">
@@ -88,12 +88,14 @@
                 </li>
                 <li>
                     <div class="card rounded-0 h-100 text-white">
-                        <img src="/img/taormina2.jpg"" class="        card-img h-100"
+                        <img src="/img/57.jpg" class="           card-img h-100"
                             style="max-height: 100%; max-width: 100%; object-fit: cover" alt="...">
                         <div
                             class="card-img-overlay d-flex align-items-start align-items-md-center justify-content-center flex-column text-center">
-                            <h2 class="card-title h1 d-block d-md-inline-block font-old orange-text">Un mondo da scroprire</h2>
-                            <p class="card-text lead col-md-8 col-lg-6">Che decidiate di scalare l’Etna o di rilassarvi al mare la Sicilia non vi deluderà mai.</p>
+                            <h2 class="card-title h1 d-block d-md-inline-block font-old orange-text">Un mondo da
+                                scroprire</h2>
+                            <p class="card-text lead col-md-8 col-lg-6">Che decidiate di scalare l’Etna o di rilassarvi
+                                al mare la Sicilia non vi deluderà mai.</p>
                         </div>
                     </div>
                 </li>
@@ -117,7 +119,7 @@
     </div>
 
 
-    <div class="container-fluid py-5 my-5 cards-container">
+    <div class="container-fluid py-5 my-5 cards-container1">
         <div class="row justify-content-evenly d-flex">
 
             <div class="col-12 col-md-4 justify-content-center d-flex m-0 bg-white card-contorn p-3 card1">
@@ -198,14 +200,16 @@
             </p>
             <img src="/img/7.jpg" alt="" class="col-12 col-md-6">
             <p class="col-12 col-md-3 font-primary presentazione-testo2 pe-0 ps-2 text-dark py-1">
-                <strong class="font-old greater"><span class="orange-text">P</span>eter’s House conta 2 appartamenti.</strong>
+                <strong class="font-old greater"><span class="orange-text">P</span>eter’s House conta 2
+                    appartamenti.</strong>
                 Il primo apre nel 2018 a Letojanni (Me) a soli 30 metri dall’azzurro mare dell’isola.
                 Curato nei minimi dettagli e fornito di tutto il necessario per trascorrere un soggiorno tranquillo
                 e con tutti i comfort.
                 Nel 2021 il secondo Peter’s House apre a Calatabiano (Ct) nella città del castello arabo-normanno.
                 Dall’ampio terrazzo si può sorseggiare un cocktail con vista Etna e Taormina.
                 <br><br>
-                <strong class="font-old greater"><span class="orange-text">I</span>l caloroso staff di Peter’s House, formato da papà Peter, mamma
+                <strong class="font-old greater"><span class="orange-text">I</span>l caloroso staff di Peter’s House,
+                    formato da papà Peter, mamma
                     Antonella, Gloria e Clarissa, è
                     pronto
                     ad accogliervi nelle vostre vacanze.</strong>
@@ -215,16 +219,66 @@
         </div>
     </div>
 
+    <div class="container-fluid py-5 my-5 cards-container2">
+        <div class="row justify-content-evenly d-flex text-center">
+
+            <div class="col-12 col-md-4 justify-content-center d-flex m-0 bg-white card-contorn p-3">
+                <div class="card-border">
+                    <div class="card shadow-lg p-3" style="width: 18rem;">
+                        <div class="card-body">
+                            <p class="card-text text-dark"><br> “Cosa ti manca dalla Sicilia?”<br>
+                                “U scrusciu du mari” <br><br><br></p>
+                            <hr class="hr1">
+                            <h5 class="card-title orange-text font-old fst-italic">
+                                ANDREA CAMILLERI
+                            </h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-12 col-md-4 justify-content-center d-flex m-0 bg-white card-contorn p-3">
+                <div class="card-border">
+                    <div class="card shadow-lg p-3" style="width: 18rem;">
+                        <div class="card-body">
+                            <p class="card-text text-dark">Viaggiare è camminare verso l’orizzonte, incontrare l’altro,
+                                conoscere, scoprire e tornare più ricchi di quando si era iniziato il cammino.</p>
+                            <hr class="hr1">
+                            <h5 class="card-title orange-text font-old fst-italic">
+                                LUIS SEPULVEDA
+                            </h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-12 col-md-4 justify-content-center d-flex m-0 bg-white card-contorn p-3">
+                <div class="card-border">
+                    <div class="card shadow-lg p-3" style="width: 18rem;">
+                        <div class="card-body">
+                            <p class="card-text text-dark"><br>La vita è un viaggio e chi viaggia vive due volte. <br><br><br></p>
+                            <hr class="hr1">
+                            <h5 class="card-title orange-text font-old fst-italic">
+                                UMAR KHAYYAM
+                            </h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <div class="container presentazione2 py-3 shadow-lg p-3 my-5">
         <div class="row align-items-center">
             <img src="/img/13.jpg" alt="" class="col-12 col-md-4">
             <p class="col-12 col-md-2 font-primary presentazione-testo1 text-dark ps-0 pe-2 py-1">
-                <strong class="font-old greater"><span class="orange-text">T</span>ra comfort e relax i Peter’s House studiati nei minimi dettagli e
+                <strong class="font-old greater"><span class="orange-text">T</span>ra comfort e relax i Peter’s
+                    House studiati nei minimi dettagli e
                     forniti di tutto il necessario renderanno le vostre vacanze uniche.</strong>
             </p>
             <p class="col-12 col-md-2 font-primary presentazione-testo2 pe-0 ps-2 text-dark py-1 text-end">
-                <strong class="font-old greater"><span class="orange-text">L</span>e T-shirt bianche e i portachiavi si trasformano nelle nostre tele per
+                <strong class="font-old greater"><span class="orange-text">L</span>e T-shirt bianche e i
+                    portachiavi si trasformano nelle nostre tele per
                     raccontare le vostre storie attraverso disegni unici e divertenti ricamati interamente a
                     mano.</strong>
             </p>
