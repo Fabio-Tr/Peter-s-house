@@ -19,6 +19,7 @@
     <link href="https://cdn.jsdelivr.net/npm/swiffy-slider@1.3.1/dist/css/swiffy-slider.min.css" rel="stylesheet"
         crossorigin="anonymous">
 
+
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
 
     <title>{{ $title ?? ' ' }}</title>
@@ -47,6 +48,7 @@
 
     <script src="https://cdn.jsdelivr.net/npm/swiffy-slider@1.3.1/dist/js/swiffy-slider.min.js" crossorigin="anonymous"
         defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiffy-slider@1.3.1/dist/js/swiffy-slider-extensions.min.js"></script>
 
     <script src="{{ asset('js/app.js') }}"></script>
 </body>

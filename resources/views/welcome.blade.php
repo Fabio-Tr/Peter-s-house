@@ -30,7 +30,7 @@
     <div class="container-fluid mx-0 px-0 mb-5">
 
 
-        <div class="swiffy-slider slider-nav-autoplay slider-nav-animation slider-nav-animation-fadein slider-item-first-visible carousel-head"
+        <div class="swiffy-slider slider-nav-autoplay slider-nav-animation slider-nav-animation-fadein slider-item-first-visible slider-nav-mousedrag carousel-head"
             data-slider-nav-autoplay-interval="5500">
             <ul class="slider-container">
                 <li class="slide-visible">
