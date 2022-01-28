@@ -15,7 +15,7 @@
                 <i class="fa-brands fa-instagram-square fs-2 px-1"></i>
             </a>
         </div>
-        <div class="collapse navbar-collapse justify-content-end fw-b" id="navbarNavAltMarkup">
+        <div class="collapse navbar-collapse justify-content-end fw-bold" id="navbarNavAltMarkup">
             <div class="navbar-nav">
                 <a class="nav-link" aria-current="page" href="{{route('homepage')}}">Home</a>
                 <a class="nav-link" href="{{route('appartments')}}">Gli appartamenti</a>
