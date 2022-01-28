@@ -69,7 +69,7 @@
                         </p>
                     </div>
 
-                    <div class="swiffy-slider slider-nav-autoplay slider-item-reveal slider-item-ratio slider-item-ratio-4x3 py-3 carousel-apartments"
+                    <div class="swiffy-slider slider-nav-autoplay slider-item-reveal slider-item-ratio slider-item-ratio-16x9 py-3 carousel-apartments"
                         id="slider1" data-slider-nav-autoplay-interval="3500">
                         <ul class="slider-container">
                             <li><img src="/img/letojanni/01.jpg" loading="lazy" alt="Una foto della casa a Letojanni">
